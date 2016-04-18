@@ -1,0 +1,6 @@
+---
+- name: coreos-01
+  box: coreos-alpha
+  ram: 512
+  ip: 172.17.8.101
+  netmask: 255.255.255.192
